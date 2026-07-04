@@ -1,4 +1,4 @@
-package com.Exercise_02;
+package src;
 
 public class products {
     int productId;
