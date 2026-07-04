@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c869f68d-a3ee-4e95-9f90-3e83757c6294" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Exercise_03/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/inventoryManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/inventoryManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_02/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/inventoryManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/inventoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_01/inventoryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_01/product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Exercise_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="12" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,6 +36,69 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7526233737055334" />
+      <entry key="MS500" value="1.944747040997206" />
+      <entry key="S2" value="1.9858909615439426" />
+      <entry key="S5" value="1.9943999904552916" />
+      <entry key="S10" value="2.006674452373027" />
+      <entry key="S30" value="2.4676764237381335" />
+      <entry key="S60" value="3.855673562431849" />
+      <entry key="M2" value="6.805272769358027" />
+      <entry key="M5" value="11.829490122082984" />
+      <entry key="M10" value="14.833660235170491" />
+      <entry key="M15" value="16.07188353703595" />
+      <entry key="M30" value="17.45439964495245" />
+      <entry key="H1" value="18.20554150424749" />
+      <entry key="H2" value="18.597187808520705" />
+      <entry key="H4" value="18.79717651356655" />
+      <entry key="D1" value="18.965997358704726" />
+      <entry key="W1" value="18.995137588489122" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.4863385760334503E-198" />
+      <entry key="MS500" value="2.7190897948144545E-40" />
+      <entry key="S2" value="1.2841208201249717E-10" />
+      <entry key="S5" value="1.1052037631433038E-4" />
+      <entry key="S10" value="0.01051286739361644" />
+      <entry key="S30" value="0.21970154909820147" />
+      <entry key="S60" value="0.49861228624493226" />
+      <entry key="M2" value="0.9186381140309416" />
+      <entry key="M5" value="1.6958231482298993" />
+      <entry key="M10" value="2.217381792451075" />
+      <entry key="M15" value="2.443258966608176" />
+      <entry key="M30" value="2.70232763073857" />
+      <entry key="H1" value="2.8459660385703223" />
+      <entry key="H2" value="2.9216337879811296" />
+      <entry key="H4" value="2.9604731474330537" />
+      <entry key="D1" value="2.9933638918389516" />
+      <entry key="W1" value="2.999050794374481" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8690209372176424" />
+      <entry key="MS500" value="1.512311733974456" />
+      <entry key="S2" value="1.8518445053808195" />
+      <entry key="S5" value="1.9383703063956204" />
+      <entry key="S10" value="1.9853119863058193" />
+      <entry key="S30" value="2.6401243289082648" />
+      <entry key="S60" value="4.289360756098417" />
+      <entry key="M2" value="7.653340358054326" />
+      <entry key="M5" value="13.471766634751072" />
+      <entry key="M10" value="17.016605533817025" />
+      <entry key="M15" value="18.490060202238478" />
+      <entry key="M30" value="20.142993370258083" />
+      <entry key="H1" value="21.044315111621952" />
+      <entry key="H2" value="21.515140326913315" />
+      <entry key="H4" value="21.755787283918796" />
+      <entry key="D1" value="21.95904779308552" />
+      <entry key="W1" value="21.994143527709276" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
@@ -36,109 +113,25 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "Engineering__Concepts",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/COGNIZANT/Digital-Nurture-JavaFSE-main/Cognizant_Exercises/Engineering_Concepts/Data_Structures_and_Algorithms",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Data_Structures_and_Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Data_Structures_and_Algorithms" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Data_Structures_and_Algorithms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Data_Structures_and_Algorithms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="Data_Structures_and_Algorithms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Data_Structures_and_Algorithms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

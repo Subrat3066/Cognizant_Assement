@@ -1,7 +1,5 @@
 package com.Exercise_02;
 
-import com.Exercise_01.product;
-
 class Main{
     public static void main(String[] args) {
         products[] pdt = {
