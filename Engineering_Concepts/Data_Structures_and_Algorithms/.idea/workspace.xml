@@ -5,19 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c869f68d-a3ee-4e95-9f90-3e83757c6294" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Exercise_03/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/inventoryManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/inventoryManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_02/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/inventoryManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/inventoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_01/inventoryManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_01/product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Exercise_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Exercise_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures_and_Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/Exercise_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/Exercise_01/inventoryManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/com/Exercise_01/product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/inventoryManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_01/product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_02/products.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data_Structures_and_Algorithms/com/Exercise_03/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/inventoryManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_01/product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_02/products.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Exercise_03/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dataStructursAndAlgorithms.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="12" />
+    <option name="cachedIndexableFilesCount" value="11" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,61 +52,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7526233737055334" />
-      <entry key="MS500" value="1.944747040997206" />
-      <entry key="S2" value="1.9858909615439426" />
-      <entry key="S5" value="1.9943999904552916" />
-      <entry key="S10" value="2.006674452373027" />
-      <entry key="S30" value="2.4676764237381335" />
-      <entry key="S60" value="3.855673562431849" />
-      <entry key="M2" value="6.805272769358027" />
-      <entry key="M5" value="11.829490122082984" />
-      <entry key="M10" value="14.833660235170491" />
-      <entry key="M15" value="16.07188353703595" />
-      <entry key="M30" value="17.45439964495245" />
-      <entry key="H1" value="18.20554150424749" />
-      <entry key="H2" value="18.597187808520705" />
-      <entry key="H4" value="18.79717651356655" />
-      <entry key="D1" value="18.965997358704726" />
-      <entry key="W1" value="18.995137588489122" />
+      <entry key="MS100" value="1.460620397327337" />
+      <entry key="MS500" value="3.042261829847322" />
+      <entry key="S2" value="3.723648639705857" />
+      <entry key="S5" value="3.887235399029737" />
+      <entry key="S10" value="3.9836752922587677" />
+      <entry key="S30" value="4.718735086740471" />
+      <entry key="S60" value="5.674658437979714" />
+      <entry key="M2" value="6.578722546183442" />
+      <entry key="M5" value="7.37656076901606" />
+      <entry key="M10" value="9.237667334383326" />
+      <entry key="M15" value="14.1817076238808" />
+      <entry key="M30" value="34.03354347076504" />
+      <entry key="H1" value="60.81620053549432" />
+      <entry key="H2" value="83.17975381596793" />
+      <entry key="H4" value="97.6900839318002" />
+      <entry key="D1" value="111.89880505003127" />
+      <entry key="W1" value="114.55136748909496" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.4863385760334503E-198" />
-      <entry key="MS500" value="2.7190897948144545E-40" />
-      <entry key="S2" value="1.2841208201249717E-10" />
-      <entry key="S5" value="1.1052037631433038E-4" />
-      <entry key="S10" value="0.01051286739361644" />
-      <entry key="S30" value="0.21970154909820147" />
-      <entry key="S60" value="0.49861228624493226" />
-      <entry key="M2" value="0.9186381140309416" />
-      <entry key="M5" value="1.6958231482298993" />
-      <entry key="M10" value="2.217381792451075" />
-      <entry key="M15" value="2.443258966608176" />
-      <entry key="M30" value="2.70232763073857" />
-      <entry key="H1" value="2.8459660385703223" />
-      <entry key="H2" value="2.9216337879811296" />
-      <entry key="H4" value="2.9604731474330537" />
-      <entry key="D1" value="2.9933638918389516" />
-      <entry key="W1" value="2.999050794374481" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="6.461789389088674E-229" />
+      <entry key="S10" value="8.0385257687234315E-115" />
+      <entry key="S30" value="9.32505767147992E-39" />
+      <entry key="S60" value="1.0272406083012068E-19" />
+      <entry key="M2" value="4.169644817078208E-10" />
+      <entry key="M5" value="3.1057207228200775E-4" />
+      <entry key="M10" value="0.030007609355683088" />
+      <entry key="M15" value="0.1387490808680209" />
+      <entry key="M30" value="0.6439739632829623" />
+      <entry key="H1" value="1.3892962602194865" />
+      <entry key="H2" value="2.041307142168153" />
+      <entry key="H4" value="2.474585219410444" />
+      <entry key="D1" value="2.9052470149342473" />
+      <entry key="W1" value="2.986276677862279" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8690209372176424" />
-      <entry key="MS500" value="1.512311733974456" />
-      <entry key="S2" value="1.8518445053808195" />
-      <entry key="S5" value="1.9383703063956204" />
-      <entry key="S10" value="1.9853119863058193" />
-      <entry key="S30" value="2.6401243289082648" />
-      <entry key="S60" value="4.289360756098417" />
-      <entry key="M2" value="7.653340358054326" />
-      <entry key="M5" value="13.471766634751072" />
-      <entry key="M10" value="17.016605533817025" />
-      <entry key="M15" value="18.490060202238478" />
-      <entry key="M30" value="20.142993370258083" />
-      <entry key="H1" value="21.044315111621952" />
-      <entry key="H2" value="21.515140326913315" />
-      <entry key="H4" value="21.755787283918796" />
-      <entry key="D1" value="21.95904779308552" />
-      <entry key="W1" value="21.994143527709276" />
+      <entry key="MS100" value="1.3319155863887704" />
+      <entry key="MS500" value="2.935332482267356" />
+      <entry key="S2" value="3.6876159636174015" />
+      <entry key="S5" value="3.871923191839564" />
+      <entry key="S10" value="3.975840211560821" />
+      <entry key="S30" value="4.71594553180089" />
+      <entry key="S60" value="5.673158642463584" />
+      <entry key="M2" value="6.57792298639875" />
+      <entry key="M5" value="7.376524184806072" />
+      <entry key="M10" value="9.26702236389173" />
+      <entry key="M15" value="14.31887777067034" />
+      <entry key="M30" value="34.67410816212501" />
+      <entry key="H1" value="62.20187821406954" />
+      <entry key="H2" value="85.21841889432612" />
+      <entry key="H4" value="100.16307218184481" />
+      <entry key="D1" value="114.80374027129885" />
+      <entry key="W1" value="117.53759839959524" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,29 +118,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Engineering__Concepts",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/COGNIZANT/Digital-Nurture-JavaFSE-main/Cognizant_Exercises/Engineering_Concepts/Data_Structures_and_Algorithms",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Engineering__Concepts&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/COGNIZANT/Digital-Nurture-JavaFSE-main/Cognizant_Exercises/Engineering_Concepts/Data_Structures_and_Algorithms&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
