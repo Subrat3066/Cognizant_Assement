@@ -13,7 +13,7 @@ public class App {
 
         BookService service = context.getBean("bookService", BookService.class);
 
-        service.service();
+        service.service(); 
 
         ((ClassPathXmlApplicationContext) context).close();
     }
