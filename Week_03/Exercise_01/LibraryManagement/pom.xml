@@ -3,17 +3,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.Spring</groupId>
-  <artifactId>Exercise_02</artifactId>
+  <artifactId>LibraryManagement</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Exercise_02</name>
+  <name>LibraryManagement</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
 
   <dependencies>
     <dependency>
@@ -24,17 +23,9 @@
     </dependency>
 
       <dependency>
-        <groupId>org.junit.jupiter</groupId>
-        <artifactId>junit-jupiter</artifactId>
-        <version>5.10.2</version>
-        <scope>test</scope>
-      </dependency>
-
-      <dependency>
-        <groupId>org.mockito</groupId>
-        <artifactId>mockito-core</artifactId>
-        <version>5.12.0</version>
-        <scope>test</scope>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>5.3.30</version>
       </dependency>
 
   </dependencies>
