@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<<< HEAD:Week_03/.idea/modules.xml
-      <module fileurl="file://$PROJECT_DIR$/.idea/Week_03.iml" filepath="$PROJECT_DIR$/.idea/Week_03.iml" />
-========
       <module fileurl="file://$PROJECT_DIR$/Cognizant_Exercises.iml" filepath="$PROJECT_DIR$/Cognizant_Exercises.iml" />
->>>>>>>> main:.idea/modules.xml
     </modules>
   </component>
 </project>
